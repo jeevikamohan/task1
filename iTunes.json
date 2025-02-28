@@ -1,0 +1,12 @@
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"wrapperType":"track", "kind":"tv-episode", "artistId":991468973, "collectionId":991468974, "trackId":995110305, "artistName":"The Director's Chair", "collectionName":"The Director's Chair, Season 1", "trackName":"Francis Ford Coppola", "collectionCensoredName":"The Director's Chair, Season 1", "trackCensoredName":"Francis Ford Coppola", "artistViewUrl":"https://itunes.apple.com/us/tv-show/the-directors-chair/id991468973?uo=4", "collectionViewUrl":"https://itunes.apple.com/us/tv-season/francis-ford-coppola/id991468974?i=995110305&uo=4", "trackViewUrl":"https://itunes.apple.com/us/tv-season/francis-ford-coppola/id991468974?i=995110305&uo=4", 
+"previewUrl":"https://video-ssl.itunes.apple.com/itunes-assets/Video117/v4/d4/5a/33/d45a3383-3360-ec52-7345-6fa7886c1d54/mzvf_7801083954418750896.640x478.h264lc.U.p.m4v", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Video7/v4/d2/e8/f8/d2e8f885-678f-bd3f-a0c8-5e904eacd7c4/mzl.xbtjvzgi.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Video7/v4/d2/e8/f8/d2e8f885-678f-bd3f-a0c8-5e904eacd7c4/mzl.xbtjvzgi.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Video7/v4/d2/e8/f8/d2e8f885-678f-bd3f-a0c8-5e904eacd7c4/mzl.xbtjvzgi.jpg/100x100bb.jpg", "collectionPrice":19.99, "trackPrice":1.99, "collectionHdPrice":29.99, "trackHdPrice":2.99, "releaseDate":"2015-03-02T08:00:00Z", "collectionExplicitness":"notExplicit", "trackExplicitness":"notExplicit", "discCount":1, "discNumber":1, "trackCount":14, "trackNumber":5, "trackTimeMillis":2680277, "country":"USA", "currency":"USD", "primaryGenreName":"Nonfiction", "contentAdvisoryRating":"TV-14", "shortDescription":"Robert Rodriguez interviews Francis Ford Coppola to discuss the influence of family, starting with", 
+"longDescription":"Robert Rodriguez interviews Francis Ford Coppola to discuss the influence of family, starting with rebel studio Zeotrope and the challenges of creating The Godfather, The Conversation, and Apocalypse Now."}]
+}
+
+
