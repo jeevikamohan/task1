@@ -1,0 +1,74 @@
+[{
+
+  "MessageId" : 6062006,
+
+  "MessageLine" : 1,
+
+  "MessageClassId" : "1070",
+
+  "NoOfMessageLines" : 1,
+
+  "Contract" : "",
+
+  "ErrorMsg" : "*",
+
+  "TransferState" : "Transferred",
+
+  "ExecDateTime" : "2022-06-29T08:48:00Z",
+
+  "OriginalMessageId" : 44681,
+
+  "OriginalMessageLine" : 1,
+
+  "Termination" : "FALSE"
+
+},{
+
+  "MessageId" : 6062007,
+
+  "MessageLine" : 1,
+
+  "MessageClassId" : "1070",
+
+  "NoOfMessageLines" : 1,
+
+  "Contract" : "",
+
+  "ErrorMsg" : "*",
+
+  "TransferState" : "Released",
+
+  "ExecDateTime" : "2022-06-22T08:48:00Z",
+
+  "OriginalMessageId" : 44682,
+
+  "OriginalMessageLine" : 1,
+
+  "Termination" : "FALSE"
+
+},{
+
+  "MessageId" : 6062008,
+
+  "MessageLine" : 1,
+
+  "MessageClassId" : "1070",
+
+  "NoOfMessageLines" : 1,
+
+  "Contract" : "",
+
+  "ErrorMsg" : "*",
+
+  "TransferState" : "Transferred",
+
+  "ExecDateTime" : "2022-06-30T08:48:00Z",
+
+  "OriginalMessageId" : 44683,
+
+  "OriginalMessageLine" : 1,
+
+  "Termination" : "FALSE"
+
+}]
+
